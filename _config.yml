@@ -5,14 +5,14 @@ pygments:         true
 paginate:         6
 permalink:        /:title
 
-title:            孤云的站点
+title:            高峰的站点
 url:              http://gaofeng.github.com
 feed:             /atom.xml
 author:
     name:         高峰
     twitter:      无
-description:      孤云的站点
-author_info:      
+description:      高峰的站点
+author_info:      <a href="http://gaofeng.github.com/about">高峰</a>
 
 copyright:
     - Design based on <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">BeiYuu</a> &copy; 2013
